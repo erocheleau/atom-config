@@ -20,7 +20,6 @@ docblockr
 editorconfig
 file-icons
 fonts
-gcc-make-run
 git-blame
 git-log
 git-plus
