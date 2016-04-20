@@ -40,7 +40,6 @@ language-haml
 language-jade
 linter
 linter-coffeelint
-linter-csslint
 linter-eslint
 linter-haml
 linter-jscs
