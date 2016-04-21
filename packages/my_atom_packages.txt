@@ -13,7 +13,6 @@ atom-ternjs
 atom-typescript
 autocomplete-angular-material
 autosave-plus
-build-grunt
 color-picker
 dash
 docblockr
@@ -26,6 +25,7 @@ git-plus
 git-projects
 git-status
 git-time-machine
+github-notifications
 highlight-line
 highlight-selected
 jade-beautify
@@ -55,6 +55,5 @@ script
 source-preview-pug
 todo-show
 travis-ci-status
-tree-view-git-branch
 tree-view-git-status
 wercker-status
